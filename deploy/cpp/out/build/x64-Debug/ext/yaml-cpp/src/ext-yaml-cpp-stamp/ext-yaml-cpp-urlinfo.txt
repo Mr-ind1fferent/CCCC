@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://bj.bcebos.com/paddlex/deploy/deps/yaml-cpp.zip'
+tag='MD5=9542d6de397d1fbd649ed468cb5850e6'
